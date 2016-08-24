@@ -1,2 +1,2 @@
 # sudoki-bi
-The goal of this project is to create a random sudoku by using an algorithm.
+The goal of this project is to resolve a given sudoku by using an algorithm.
